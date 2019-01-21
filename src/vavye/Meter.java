@@ -1,4 +1,3 @@
-package vavye;
 
 public class Meter implements Comparable<Meter> {
 	private String sequenceId;
